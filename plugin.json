@@ -1,0 +1,25 @@
+{
+    "name": "Last.fm Scrobbler",
+    "version": "2.0.0",
+    "author": "You",
+    "description": "Scrobbles your listening history to Last.fm. Supports real-time now-playing, offline queue, and one-click import of your existing Audion play history.",
+    "type": "js",
+    "entry": "index.js",
+    "permissions": [
+        "network:fetch",
+        "ui:inject",
+        "player:read",
+        "storage:local",
+        "library:read"
+    ],
+    "category": "integration",
+    "tags": [
+        "lastfm",
+        "scrobble",
+        "history",
+        "stats",
+        "social"
+    ],
+    "license": "MIT",
+    "repository": "https://github.com/you/lastfm-scrobbler"
+}
