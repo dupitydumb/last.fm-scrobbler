@@ -38,8 +38,8 @@
 
   // ── Credentials ─────────────────────────────────────────────────────────
   // Get your own at https://www.last.fm/api/account/create
-  const API_KEY    = "a12a4fd56a0aad267afc582c37612df0";
-  const API_SECRET = "2bdb82a141465ed0b3ffd1abd7ce907b";
+  const API_KEY    = "fb0be64fc7a5771fd655689dfab43bd7";
+  const API_SECRET = "4826d3ea6558490a731b1a35c30bc524";
   const API_ROOT   = "https://ws.audioscrobbler.com/2.0/";
 
   // ── Thresholds ───────────────────────────────────────────────────────────
