@@ -1,6 +1,6 @@
 {
     "name": "Last.fm Scrobbler",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "author": "You",
     "description": "Scrobbles your listening history to Last.fm. Supports real-time now-playing, offline queue, and one-click import of your existing Audion play history.",
     "type": "js",
